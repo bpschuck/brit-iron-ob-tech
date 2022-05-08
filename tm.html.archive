@@ -1,0 +1,320 @@
+<!DOCTYPE html PUBLIC "-//WC3//DTD XHTML 1.0 Transistional//EN" "http://www.w3.org/TR/xhtml/DTD/xhtml1-transitional.dtd">
+<html>
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app204.us.archive.org';v.server_ms=292;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="/_static/js/bundle-playback.js?v=36gO9Ebf" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.oldbritts.com:80/tm.html","20180829142855","https://web.archive.org/","web","/_static/",
+	      "1535552935");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=fantwOh2" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+<title>Old Britts, Throttle Setup for Twin Mikuni carbs</title>
+<!-- start comments
+        Description:    Old Britts, Throttle Setup for Twin Mikuni carbs
+        Author:         F. H. Eaton & Associates
+        Date:           09/06/11
+// end comments -->
+
+	<script src="/web/20180829142855js_/http://www.oldbritts.com/js/yui-min.js"></script>
+	<script src="/web/20180829142855js_/http://www.oldbritts.com/js/json2.js"></script>
+	
+	<link rel="stylesheet" type="text/css" href="/web/20180829142855cs_/http://www.oldbritts.com/js/cssgrids-min.css">
+	<link rel="stylesheet" type="text/css" href="/web/20180829142855cs_/http://www.oldbritts.com/js/menu.css">
+	<script language="JavaScript">
+		if (typeof CartPart == "undefined") 
+		{
+			PassedVal = new Array();
+			/*CartPart = new Array();
+			CartDesc = new Array();
+			CartPrice = new Array();
+			CartQty = new Array();  
+			CartTot = new Array ();
+			BillInfo = new Array ();
+			BillInfo[0] = true;
+			BillInfo[1] = false;
+			for (var i = 2; i <= 19; i++) 
+			{
+				BillInfo[i] = ""
+			}
+			CommInfo = "";
+			CartPart[0] = 'empty'*/
+		}
+	</script></head>
+<body bgcolor="#ffffff" text="#000080" link="#ff0000" vlink="#008000"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20180829142855/http%3A//www.oldbritts.com/tm.html"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.oldbritts.com/tm.html" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180829142855" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+		<div class="s" id="wm-nav-captures">
+	  	  <a class="t" href="/web/20180829142855*/http://www.oldbritts.com/tm.html" title="See a list of every capture for this URL">2 captures</a>
+	  <div class="r" title="Timespan for captures of this URL">29 Jun 2018 - 29 Aug 2018</div>
+	  </div>
+	<div class="k" style="flex:1;">
+	  <a href="" id="wm-graph-anchor">
+	    <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+	      <canvas id="wm-sparkline-canvas" width="675" height="27" border="0"></canvas>
+	    </div>
+	  </a>
+	</div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+	<tbody>
+	  <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+	  <tr class="m">
+	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180629171312/http://www.oldbritts.com:80/tm.html" title="29 Jun 2018"><strong>Jun</strong></a></td>
+	    <td class="c" id="displayMonthEl" title="You are here: 14:28:55 Aug 29, 2018">AUG</td>
+	    <td class="f" nowrap="nowrap">Sep</td>
+	  </tr>
+	  <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+	  <tr class="d">
+	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180629171312/http://www.oldbritts.com:80/tm.html" title="17:13:12 Jun 29, 2018"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+	    <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 14:28:55 Aug 29, 2018">29</td>
+	    <td class="f" nowrap="nowrap"><img src="/_static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+	  </tr>
+	  <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+	  <tr class="y">
+	    <td class="b" nowrap="nowrap">2017</td>
+	    <td class="c" id="displayYearEl" title="You are here: 14:28:55 Aug 29, 2018">2018</td>
+	    <td class="f" nowrap="nowrap">2019</td>
+	  </tr>
+	</tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+        	<span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#"
+	     title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+	</span>
+        	<a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20180829142855/http://web.archive.org/screenshot/http://www.oldbritts.com/tm.html"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+	<a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20180829142855/http://www.oldbritts.com:80/tm.html" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20180829142855/http://www.oldbritts.com:80/tm.html" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+	<a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+                    <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexacrawls);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/alexacrawls" target="_new"><span class="wm-title">Alexa Crawls</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href="http://www.alexa.com/">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href="http://web.archive.org/">Wayback Machine</a> after an embargo period.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexacrawls)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/alexacrawls" target="_new"><span class="wm-title">Alexa Crawls</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href="http://www.alexa.com/">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href="http://web.archive.org/">Wayback Machine</a> after an embargo period.
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20180829142855/http://www.oldbritts.com:80/tm.html</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(675,27,25,2,"web","http://www.oldbritts.com/tm.html","20180829142855",1996,"/_static/",["/_static/css/banner-styles.css?v=fantwOh2","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+	
+	<div class="yui3-g">
+		<div class="yui3-u-1-8">
+			<div id="menu" style="text-align:center; margin:0 auto; position:fixed; width:10%;letter-spacing:normal;word-spacing:normal;">
+	<br/><br/>
+	<div id="menu_image">
+		<a href="ob_main.html" style="text-decoration:none;"><img src="/web/20180829142855im_/http://www.oldbritts.com/image/home.gif" alt="Old Britts Home"></a>
+		<br>
+		<a href="ob_cart.html"><img src="/web/20180829142855im_/http://www.oldbritts.com/image/e_cart.gif" alt=" Shopping Cart"></a>		<br>
+		<a href="ob_nor.html"><img src="/web/20180829142855im_/http://www.oldbritts.com/image/norts.gif" alt="Norton Parts Menu"></a> 
+		<font size="2"><b>
+	</div>	
+	<p>
+	or by<br>year
+	</p>
+	<a href="nor_mk3_75.html">1975</a><br>
+	<a href="nor_comm_73.html">1973-74</a><br>
+	<a href="nor_comm_72.html">1972</a><br>
+	<a href="nor_comm_71.html">1971</a><br>
+	<a href="nor_comm_69.html">1969-70</a><br>
+	<a href="nor_atlas_66.html">1966-68</a><br>
+	<a href="ob_group.html">General</a>
+	</p>
+	<a href="ob_p_o.html">Our products</a>
+	</b></font>
+	
+</div>		</div>
+		<div class="yui3-u-7-8">
+			<div id="content" style="border-left:2px solid blue; padding-left:8px;overflow:auto;letter-spacing:normal;word-spacing:normal; ">
+<p>
+<center><img src="/web/20180829142855im_/http://www.oldbritts.com/image/oldbs.gif" alt="Old Britts"> <br>
+</center>
+
+<p>
+<center><b><font size="6">Throttle Setup for Twin Mikuni carbs</font></b></center>
+<p>
+
+This article briefly describes how to convert a Commando from twin Amal carburetors to twin
+Mikuni carburetors.
+Since the 32mm and 34mm Mikuni carbs are fatter than the stock Amal carbs, manifolds
+that splay the carbs out from the center line are required.
+The Mikuni twin manifolds consists of two aluminum manifolds that bolt to the head and two rubber manifolds that mount between the aluminum manifolds and carbs.
+<p>
+
+<b>Procedure:</b>
+<p>
+
+<ol>
+<li>Mount the two studs, supplied with the manifolds, into the outside holes of the head.
+The two allen bolts thread through the two inside holes of the head.
+<li>Mount and tighten up the two aluminum manifolds.
+<li>Mount the two rubber manifolds to the aluminum manifolds.
+
+<p>
+<center><img src="/web/20180829142855im_/http://www.oldbritts.com/image/tm1.jpg" alt="Carbs mounted to a Commando"></center>
+<center>Carbs mounted to a Commando.</center>
+<p>
+
+<li>Remove the tops of each carb.
+<li>Using only the two throttle cables that fit into the carbs,
+thread the throttle cables through the 45º curved adjusters and into the carburetor slides.
+<li>Replace the top of the carbs and tighten.
+<li>Position the top carb 45º curved adjusters in the proper direction.
+Depending on how you are going to thread the throttle cables determines the proper direction of the adjusters.
+<li>Fit carbs into the rubber manifolds
+<li>Pull cables to lift slides and insert the spreaders.
+We made a couple spreaders out of two pieces of wood, but anything that will keep the carb slides in the open, full throttle, position.
+
+<p>
+<center><img src="/web/20180829142855im_/http://www.oldbritts.com/image/tm2.jpg" alt="Carbs with wooden spacers"></center>
+<center>Carbs with wooden spacers.</center>
+<p>
+
+<li>Unscrew the black plastic splitter.
+<li>Fit top cable through the splitter top and thread on the splitter slide.
+<li>Fit bottom cables into the bottom half of the splitter and thread onto the splitter slide.
+<li>Tighten the splitter.
+<li>Take apart throttle housing.
+<li>Fit cable into twist grip.
+<li>Assemble throttle assembly on the bars.
+<li>Remove spreaders from carbs.
+<li>Adjust cables.
+<li>Place K&N; filters on carbs.
+<li>Install fuel line as shown in pictures.
+
+</ul>
+<p>
+<center><img src="/web/20180829142855im_/http://www.oldbritts.com/image/tm3.jpg" alt="Final assembly"></center>
+<center>Final assembly.</center>
+<p>
+
+Since the Mikuni cars are splayed out from the center line, most air filters will interfere with the Commando frame.  We have figured out a way of modifying K&N; filters to fit correctly.
+<a href="42_100004.html"><b><font size="4">Modifying K&N; air filters for twin Mikuni carburetors</font></b></a>.
+
+<hr>
+
+<p>
+<center><a href="ob_main.html"><b><font size="4">Return to Old Britts home page</font></b></a>
+&#133;&#133; <a href="ob_tech.html"><b><font size="4">Return to Technical Articles</font></b></a>
+</center>
+
+<hr>
+<p>
+<font size="1">This page was written and designed by F. H. Eaton
+&amp; Associates if you have any questions or comments please
+contact us at <a href="https://web.archive.org/web/20180829142855/mailto:info@fheaton.com">info@fheaton.com</a></font><font size="2">
+</font>
+</p>
+
+	<!-- start comments
+		Description:    Old Britts body footer include
+		Author:         CC Enterprises
+		Date:           04/24/2012
+		Changes:		
+	// end comments -->
+			
+			</div>
+		</div>
+	</div></body>
+</html>
+<!--
+     FILE ARCHIVED ON 14:28:55 Aug 29, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:25:13 May 07, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 171.431
+  exclusion.robots: 0.272
+  exclusion.robots.policy: 0.263
+  cdx.remote: 0.08
+  esindex: 0.01
+  LoadShardBlock: 124.709 (3)
+  PetaboxLoader3.datanode: 145.215 (4)
+  CDXLines.iter: 15.638 (3)
+  load_resource: 115.921
+  PetaboxLoader3.resolve: 40.593
+-->
